@@ -1,0 +1,14 @@
+Emp ID,Region,Name,Department,Month,Year,Sales,Discounts,Date,%Sales,% Discount
+10001,East,"DeRusha, Joe",5255-Data/Connectivity Sales,Jan,FY13," 1,00,000 "," 25,000 ", 24-01-2023 ,3%,5%
+10002,East,"De Pasquale, Richard",5256-Sales Mgt & Support,Jan,FY13," 1,50,000 "," 30,000 ",01-01-2023,4%,6%
+10003,East,"Dobbert, Susan",5257-Auto Sales,Jan,FY13," 2,00,000 "," 35,000 ",08-01-2023,6%,7%
+10001,East,"DeRusha, Joe",5255-Data/Connectivity Sales,Jan,FY13," 1,00,000 "," 25,000 ",28-01-2023,3%,5%
+10002,East,"De Pasquale, Richard",5256-Sales Mgt & Support,Jan,FY13," 1,50,000 "," 30,000 ",21-01-2023,4%,6%
+10003,East,"Dobbert, Susan",5257-Auto Sales,Jan,FY13," 2,00,000 "," 35,000 ",23-01-2023,6%,7%
+10005,West,"Dunton, Donna",5259-Sales Channel,Jan,FY13," 3,00,000 "," 45,000 ",14-01-2023,9%,8%
+10007,West,"De Sousa, Kristi",5263-Sales Support,Jan,FY13," 4,00,000 "," 55,000 ", 28-01-2023 ,12%,10%
+10004,East,"Dillard, Susan",5258-IAP Sales,Jan,FY13," 2,50,000 "," 40,000 ",28-01-2023,7%,8%
+10005,West,"Dunton, Donna",5259-Sales Channel,Jan,FY13," 3,00,000 "," 45,000 ",21-01-2023,9%,8%
+10006,West,"De Vries, John",5262-Auto GM,Jan,FY13," 3,50,000 "," 50,000 ",23-01-2023,10%,9%
+10007,West,"De Sousa, Kristi",5263-Sales Support,Jan,FY13," 4,00,000 "," 55,000 ",14-01-2023,12%,10%
+10008,West,"Defonso, Daniel",5264-ARD Sales,Jan,FY13," 4,50,000 "," 60,000 ", 28-01-2023 ,13%,11%
